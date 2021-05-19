@@ -9,7 +9,7 @@ accurate as possible.
 I have tried my best to make things simple as possible, and write this jupyter text in tutorial form, so anyone can easily get along the way.
 We will start at looking at the data first, and from there we will twist and turn the featurs as we need them. 
 There is alot to explain becauase the data is quite unorganized, and to make it feedable for the model, it will take some solid work as well as
-understanding of pandas lib data-manipuation.
+understanding of data manipulation in pandas.
 I would also like to mention, the content in this tuturial, espically customize graph function has been builded on kaggle competetion customize functions, to make things smooth, handy and easy to grasp. 
 
 So without a further due let's hope in.
