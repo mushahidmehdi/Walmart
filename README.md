@@ -15,6 +15,6 @@ There is alot to explain becauase the data is quite unorganized, and to make it 
 understanding of data manipulation in pandas.
 I would also like to mention, the content in this tuturial, espically customize graph function has been builded on kaggle competetion customize functions, to make things smooth, handy and easy to grasp. 
 
-So without a further due let's hope in.
+So without a further due let's get in.
 
 
