@@ -2,7 +2,7 @@
 This project describe sale prediction given the dataset for Walmart Inc. 
 
 
-### Understanding 
+## Understanding
 The distribution code contains four CSV data files: training, test, stores and features dataset. A CSV file, if unfamiliar, is just a way of organizing data in a text-based format: each row corresponds to one data entry, with commas in the row separating the values for that entry and we want to traiin a model that will accurate predict the future sale.
 
 The Data from Walmart stores accross the US is given from Febuary 2010 to July 2012, and our job as data scientist is to forecast their weekly sales.
