@@ -1,12 +1,12 @@
-# Walmart_Sale_Forcast_Tutorial
+# Walmart Sale Forcast Tutorial
 This project describe sale prediction given the dataset for Walmart Inc. 
+
+
+### Understanding 
+The distribution code contains four CSV data files: training, test, stores and features dataset. A CSV file, if unfamiliar, is just a way of organizing data in a text-based format: each row corresponds to one data entry, with commas in the row separating the values for that entry and we want to traiin a model that will accurate predict the future sale.
 
 The Data from Walmart stores accross the US is given from Febuary 2010 to July 2012, and our job as data scientist is to forecast their weekly sales.
 Sounds pretty cool right!
-The data is already split into a four CSVs training, test, stores and features dataset and we want to fit a model that will be able to predict the future sale, as
-accurate as possible.
-
-![wallmart](https://user-images.githubusercontent.com/66418035/119218974-997b2f00-baeb-11eb-985a-16df60b5e3ad.jpg)
 
 
 I have tried my best to make things simple as possible, and write this jupyter text in tutorial form, so anyone can easily get along the way.
