@@ -1,4 +1,3 @@
-![Conda](https://img.shields.io/conda/pn/conda-forge/python)
 
 ![GitHub Pipenv locked Python version (branch)](https://img.shields.io/github/pipenv/locked/python-version/mushahidmehdi/Full-Stack-Web-Application/main)
 ![GitHub commit merge status](https://img.shields.io/github/commit-status/mushahidmehdi/Full-Stack-Web-Application/main/c49a9cf916c11d163b7b4d1256b89c211793d6ee)
@@ -22,4 +21,5 @@ understanding of data manipulation in pandas.
 I would also like to mention, the content in this tuturial, espically customize graph function has been builded on kaggle competetion customize functions, to make things smooth, handy and easy to grasp.
 So without a further due let's get in.!
 
+![Conda](https://img.shields.io/conda/pn/conda-forge/python)
 
