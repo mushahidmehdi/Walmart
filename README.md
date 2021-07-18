@@ -1,7 +1,8 @@
 
 ![GitHub Pipenv locked Python version (branch)](https://img.shields.io/github/pipenv/locked/python-version/mushahidmehdi/Full-Stack-Web-Application/main)
 ![GitHub commit merge status](https://img.shields.io/github/commit-status/mushahidmehdi/Full-Stack-Web-Application/main/c49a9cf916c11d163b7b4d1256b89c211793d6ee)
-![GitHub repo size](https://img.shields.io/github/repo-size/mushahidmehdi/Walmart-Sale-Forcast-Tutorial)![Steam Favorites](https://img.shields.io/steam/favorites/100?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/mushahidmehdi/Walmart-Sale-Forcast-Tutorial)
+![Steam Favorites](https://img.shields.io/steam/favorites/100?style=plastic)
 
 # Walmart Sale Forcast Tutorial
 This project describe sale prediction given the dataset for Walmart Inc. 
